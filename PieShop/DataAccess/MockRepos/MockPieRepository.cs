@@ -1,8 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using PieShop.Models;
 using PieShop.Models.Interfaces;
 
-namespace PieShop.Models.MockRepos
+namespace PieShop.DataAccess.MockRepos
 {
     public class MockPieRepository: IPieRepository
     {
