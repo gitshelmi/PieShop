@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Formatters;
 using PieShop.Models.Interfaces;
-using PieShop.Views.ViewModels;
+using PieShop.ViewModels;
 
 namespace PieShop.Controllers
 {
